@@ -1,30 +1,62 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar Y</h1>
-<h3 align="center">Machine Learning | Full Stack Developer | IoT Security & Network Traffic Analysis | Generative AI Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer | Full Stack Developer | IoT Security & Network Traffic Analysis</h3>
 
-- 🔭 I’m currently working on **Digital Twin - Forest Fire Prediction**
+---
 
-- 🌱 I’m currently learning **Advanced Django, Secure API Development, Deep Learning Optimization, System Design**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Open Source ML, Cybersecurity & Backend Projects**
+🎓 B.E. Information Science & Engineering – BMS College of Engineering  
+🏢 Industry Research Intern at Nokia (IoT Botnet Detection using ML & Generative AI)  
+📍 Bangalore, India  
 
-- 🤝 I’m looking for help with **Advanced System Design & Scalable ML Deployment**
+I specialize in building intelligent systems using Machine Learning, Deep Learning, and scalable backend technologies.  
+My interests include network security, traffic analysis, AI-driven systems, and real-world problem solving.
 
-- 👨‍💻 All of my projects are available at [https://github.com/praveenkumar7i](https://github.com/praveenkumar7i)
+---
 
-- 💬 Ask me about **Machine Learning, Network Traffic Analysis, Django Backend Development, Cryptography**
+## 🚀 Current Focus
 
-- 📫 How to reach me **praveenkumar.is23@bmsce.ac.in**
+- 🔭 Working on **Digital Twin – Forest Fire Prediction**
+- 🌱 Learning **Advanced Django, Secure API Development & System Design**
+- 🤝 Open to collaborate on **ML, Cybersecurity & Backend Projects**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/praveen-kumar-y-97i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen-kumar-y-97i" height="30" width="40" /></a>
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+`Python` `C++` `Java` `C`
+
+### 🤖 Machine Learning & AI
+`Scikit-Learn` `PyTorch` `SMOTE` `Feature Engineering` `Network Traffic Analysis`
+
+### 🌐 Backend & Web
+`Django` `Node.js` `Express` `REST APIs` `HTML` `CSS`
+
+### 🗄 Databases & Tools
+`MySQL` `MongoDB` `SQLite` `Git` `Postman` `Linux`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumar7i&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar7i&layout=compact" height="160"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar7i" height="160"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkumar7i&show_icons=true&locale=en&layout=compact" alt="praveenkumar7i" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumar7i&show_icons=true&locale=en" alt="praveenkumar7i" /></p>
+## 📫 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar7i&" alt="praveenkumar7i" /></p>
+📧 **praveenkumar.is23@bmsce.ac.in**  
+🔗 [LinkedIn](https://linkedin.com/in/praveen-kumar-y-97i)  
+💻 [GitHub](https://github.com/praveenkumar7i)
+
+---
+
+⭐ *Focused on building secure, scalable, and intelligent software systems.*
